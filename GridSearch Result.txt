@@ -1,0 +1,17 @@
+gs.best_score_
+Out[8]: -1.9151141059412218
+
+gs.best_estimator_
+Out[9]: RandomForestRegressor(criterion='mae', max_features='sqrt', n_estimators=90)
+
+mean_absolute_error(y_test,tpred_lm)
+Out[31]: 407012826.4729451
+
+mean_absolute_error(y_test,tpred_lml)
+Out[32]: 1.9306451710671384
+
+mean_absolute_error(y_test,tpred_rf)
+Out[33]: 1.9817789964782386
+
+mean_absolute_error(y_test,(tpred_lml+tpred_rf)/2)
+Out[34]: 1.9155579580964657
