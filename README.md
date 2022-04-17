@@ -1,6 +1,6 @@
 # Glassdoor_analyst_jobs
 
-EDA Tableau Story: https://public.tableau.com/shared/C862BZ6K5?:display_count=n&:origin=viz_share_link
+EDA Tableau Story: https://public.tableau.com/shared/GGXPHBP5N?:display_count=n&:origin=viz_share_link
 
 Data analyst jobs for various locations in India has been scrapped using a selenium x-path based web scrapper from Glassdoor. 
 This code is contained in the file gs_scrapper.py. 
